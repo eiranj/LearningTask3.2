@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningTasks3.2</string>
+    <string name="icon_holder">Icon Holder</string>
+    <string name="app_desc1">Tea</string>
+    <string name="app_desc2">Coffee</string>
+    <string name="app_desc3">Soda</string>
+    <string name="app_desc4">Juice</string>
+    <string name="app_title">TYPES OF BEVERAGE</string>
+</resources>
