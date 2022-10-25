@@ -9,6 +9,7 @@ import android.os.Handler;
 public class SplashActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setContentView(R.layout.splashscreen);
         super.onCreate(savedInstanceState);
         MediaPlayer appIntro;
         appIntro = MediaPlayer.create(SplashActivity.this,R.raw.app_intro);
