@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00BCD4"
+    android:background="#000"
     tools:context=".MainActivity">
 
     <TextView
@@ -32,7 +32,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="29dp"
         android:text="@string/app_title"
-        android:textColor="#000"
+        android:textColor="#FFFFFF"
         android:textSize="32sp"
         android:textStyle="bold">
 
@@ -56,6 +56,7 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="8dp"
+            app:cardBackgroundColor="#FFEB3B"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -78,9 +79,9 @@
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
-                    android:backgroundTint="#00BCD4"
+                    android:backgroundTint="#000"
                     android:text="@string/app_desc1"
-                    android:textColor="#000"
+                    android:textColor="#FFF"
                     android:textStyle="bold">
 
                 </Button>
@@ -99,6 +100,7 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="8dp"
+            app:cardBackgroundColor="#964B00"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -121,9 +123,9 @@
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
-                    android:backgroundTint="#00BCD4"
+                    android:backgroundTint="#000"
                     android:text="@string/app_desc2"
-                    android:textColor="#000"
+                    android:textColor="#FFF"
                     android:textStyle="bold">
 
                 </Button>
@@ -142,6 +144,7 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="8dp"
+            app:cardBackgroundColor="#FF5722"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -164,9 +167,9 @@
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
-                    android:backgroundTint="#00BCD4"
+                    android:backgroundTint="#000"
                     android:text="@string/app_desc3"
-                    android:textColor="#000"
+                    android:textColor="#FFF"
                     android:textStyle="bold">
 
                 </Button>
@@ -185,6 +188,7 @@
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
             android:layout_margin="8dp"
+            app:cardBackgroundColor="#FF9800"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -207,9 +211,9 @@
                     android:layout_width="150dp"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
-                    android:backgroundTint="#00BCD4"
+                    android:backgroundTint="#000"
                     android:text="@string/app_desc4"
-                    android:textColor="#000"
+                    android:textColor="#FFF"
                     android:textStyle="bold">
 
                 </Button>
